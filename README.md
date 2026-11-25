@@ -1,16 +1,19 @@
-## Hi there 👋
+# Salut, je suis Christen 👋
 
-<!--
-**christen374/christen374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionné de cybersécurité, je construis des bases solides :
+réseau, Linux, détection, automatisation.
 
-Here are some ideas to get you started:
+## 🔧 Projets
+- **security-homelab** : lab réseau, SIEM Wazuh et simulation d'attaques
+- **security-tools** : outils Python (analyse de logs, détection)
+- **pentest-notes** : méthodologie et cheatsheets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Pratique
+- Hack The Box : [mon profil](lien à ajouter)
+- En cours : mise en place de mon home lab
+
+## 🛠️ Compétences
+Linux · TCP/IP · Git · Python (en cours) · Wazuh (en cours)
+
+## 📫 Contact
+[LinkedIn](lien à ajouter)
